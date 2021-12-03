@@ -29,6 +29,6 @@ Screenshot of your test results, including coverage report.<br>
 <img src="images/test.PNG" width="400">
 
 Link to Jira Board - You must add Richard as collaborators on your Jira board.<br>
-<a href="https://gz-aesthetics.atlassian.net/jira/software/projects/GE/boards/1">link to Jira Board</a><br>
+<a href="https://gz-aesthetics.atlassian.net/jira/software/projects/GE/boards/1/roadmap">link to Jira Board</a><br>
 <img src="images/jira.PNG" width="400">
 
