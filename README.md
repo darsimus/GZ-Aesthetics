@@ -32,3 +32,5 @@ Link to Jira Board - You must add Richard as collaborators on your Jira board.<b
 <a href="https://gz-aesthetics.atlassian.net/jira/software/projects/GE/boards/1/roadmap">link to Jira Board</a><br>
 <img src="images/jira.PNG" width="400">
 
+link to jar file:
+https://drive.google.com/file/d/1R2RwXgtATKiDK2LiN4wE79FjKHAzKiuO/view?usp=sharing
