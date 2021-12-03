@@ -27,3 +27,6 @@ Screenshots of your database to prove that data is being persisted.<br>
 
 Screenshot of your test results, including coverage report.<br> 
 <img src="images/test.PNG" width="400">
+
+Link to Jira Board - You must add Richard as collaborators on your Jira board. 
+https://gz-aesthetics.atlassian.net/jira/software/projects/GE/boards/1
