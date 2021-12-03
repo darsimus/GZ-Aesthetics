@@ -13,4 +13,13 @@ Possible improvements for future revisions of the project
 I planing convert it to working web page in next 4 month.
 
 Screenshots showing your postman requests and the output from the API.
-![](images/post.PNG)
+<br>
+<img src="images/post.PNG" width="400">
+<br>
+<img src="images/get.PNG" width="400">
+<br>
+<img src="images/put.PNG" width="400">
+<br>
+<img src="images/delete.PNG" width="400">
+
+Screenshots of your database to prove that data is being persisted. 
